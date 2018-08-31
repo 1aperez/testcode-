@@ -18,7 +18,7 @@ const greeting = (convo + name);
 console.log(greeting);
 
 //make your own message similar to what is above.
-let convo2 = "Pog";
-let x = "Champ";
-const Poggers(convo2 + x);
+let convo2 = "POG";
+let x = "GERS";
+const Poggers = (convo2 + x);
 console.log(Poggers);
